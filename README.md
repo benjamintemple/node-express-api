@@ -1,4 +1,4 @@
-# node-express-api
+# Node/Express workshop files for students
 
 
 
